@@ -1,0 +1,36 @@
+// ==========================================================
+// Base Styles
+// ==========================================================
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 100;
+}
+
+.delete-button {
+	visibility: hidden;
+}
+
+//Utility style
+.wrapper_wide {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.wrapper {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.wrapper_rules {
+	width: 70%;
+	margin: 0 auto;
+}
+
+.wrapper_skinny {
+	width: 50%;
+	margin: 0 auto;
+}
